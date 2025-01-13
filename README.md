@@ -70,12 +70,5 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ---
 
-### Developer Information
-**Name**: [Your Name]  
-**Roll Number**: 21i-0439  
-**Section**: G  
-
----
-
 Thank you for exploring this project! Feel free to reach out for questions or feedback.
 
