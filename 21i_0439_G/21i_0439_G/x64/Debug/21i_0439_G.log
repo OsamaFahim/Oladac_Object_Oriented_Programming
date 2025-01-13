@@ -1,0 +1,6 @@
+﻿  Database.cpp
+D:\OOP_PROJECT\21i_0439_G\21i_0439_G\Doctor.h(23,31): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\OOP_PROJECT\21i_0439_G\21i_0439_G\Patient.h(11,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\OOP_PROJECT\21i_0439_G\21i_0439_G\Database.cpp(643): warning C4715: 'Database::CNIC_validator': not all control paths return a value
+D:\OOP_PROJECT\21i_0439_G\21i_0439_G\Database.cpp(890): warning C4715: 'Database::time_validator': not all control paths return a value
+  21i_0439_G.vcxproj -> D:\OOP_PROJECT\21i_0439_G\x64\Debug\21i_0439_G.exe
